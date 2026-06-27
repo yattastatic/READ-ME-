@@ -1,3 +1,8 @@
-#wipwip
+<h1 align="center">✦•┈๑⋅⋯ ⋯⋅๑┈•✦</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yattastatic&label=͙͘͡★&color=FFCE61&style=plastic" alt="Profile Views"/>
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9c424022-4ed5-47ae-a997-5792c2fa6da5" />
+<p align="center">$\color{#FFEFE5}{\text{ᯓ𑣲⋆THIS IS STILL A WIP! READMD MADE BY @RAZORBABYY ON GIT}}$</p>
+
+<p align="center"> <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9c424022-4ed5-47ae-a997-5792c2fa6da5" />
+
